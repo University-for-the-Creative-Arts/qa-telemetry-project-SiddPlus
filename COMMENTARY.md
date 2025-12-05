@@ -38,3 +38,17 @@ The comprehensive data provides dual benefits for development:
 - Informing QA: The high-frequency Performance.json allows me to correlate spikes in Frame Time and CPU Cycles with specific points in the game session (Timestamp). This directs effort to debug and optimize bottleneck-causing events within the complex multiplayer code, ensuring a smooth framerate.
 
 - Game Improvements: Analyzing the MaxRoundsSurvived provides quantitative feedback on the roguelike difficulty curve. By correlating this metric with the UnlockedPerks array, I can identify which perks are being unlocked.
+
+## Photos and etc
+
+[Source Code Link](https://github.com/SiddPlus/FMPGame)
+
+![QR Code Screenshot](fmp_survey_qr_code.png)
+
+![Telemetry Screenshot](Telemetry.png)
+
+![Performance Screenshot](Performance.png)
+
+![Data collection GIF 1](QA1.gif)
+
+![Data collection GIF 1](QA2.gif)
